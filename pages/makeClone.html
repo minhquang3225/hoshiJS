@@ -60,8 +60,23 @@
         .detail-list__wrapper {
             width: 100%;
             display: flex;
+            flex-wrap: wrap;
         }
 
+        .detail-list__item {
+            width: 100%;
+        }
+
+        .detail-char {
+            display: flex;
+            width: 100%;
+            flex-wrap: wrap;
+            align-items: center;
+        }
+
+        .detail-char__name {
+            width: 300px;
+        }
 
         .detail-char__avatar {
             width: 100px;
@@ -71,6 +86,20 @@
             margin-bottom: 20px;
 
         }
+
+        .detail-char__avatar.active {
+            border-color: lime;
+            border-style: dashed;
+        }
+
+        .avatar-list__wrapper {
+            display: flex;
+        }
+
+        .avatar-list__item {
+            margin-right: 80px;
+        }
+
         ul {
             list-style: none;
         }
@@ -91,13 +120,18 @@
                     <li class="detail-list__item">
                         <ul class="detail-list__item--char">
                             <li class="detail-char">
-                                <picture class="imgBx detail-char__avatar">
-                                    <img data-binding="lv-data-sets-1"
-                                        src="https://vignette.wikia.nocookie.net/naruto-viet-nam/images/4/49/Naruto_Shipp%C5%ABden_Logo-1.png/revision/latest?cb=20170427074448&path-prefix=vi" />
-                                </picture>
-                                <div class="detail-char__name" data-binding="lv-data-sets-2" data-props="text">Uzumaki
+                                <div class="detail-char__name" data-binding="data_binding_1">Uzumaki
                                     Naruto
                                 </div>
+                                <ul class="avatar-list__wrapper">
+                                    <li class="avatar-list__item">
+                                        <picture class="imgBx detail-char__avatar">
+                                            <img data-binding="data_binding_2"
+                                                src="https://vignette.wikia.nocookie.net/naruto-viet-nam/images/4/49/Naruto_Shipp%C5%ABden_Logo-1.png/revision/latest?cb=20170427074448&path-prefix=vi" />
+                                        </picture>
+                                    </li>
+                                </ul>
+
                             </li>
                         </ul>
                     <li>

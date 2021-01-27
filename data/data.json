@@ -1,47 +1,141 @@
 {
+    "data_binding_6": [
+        "data0, src",
+        "lv2-data_8, src",
+        "lv2-data_9, src"
+    ],
+    "data-sets-2": [
+        "lv-data_name_1, text",
+        "lv-data_name_5, text",
+        "lv-data_name_6, text"
+    ],
+    "lv-data-sets-3": [
+        "lv2-data_class_1, class",
+        "lv2-data_class_5, class",
+        "lv2-data_class_6, class"
+    ],
+    "data_binding_1": [
+        "data_name_1, text",
+        "data_name_2, text",
+        "data_name_3, text"
+    ],
+    "data_binding_2": [
+        "data_binding_3, binding",
+        "data_binding_4, binding",
+        "data_binding_5, binding"
+    ],
+    "data_binding_3": [
+        "data_avatar_1, src",
+        "data_avatar_2, src",
+        "data_avatar_3, src"
+    ],
+    "data_binding_4": [
+        "data_avatar_4, src",
+        "data_avatar_5, src",
+        "data_avatar_6, src"
+    ],
+    "data_binding_5": [
+        "data_avatar_7, src",
+        "data_avatar_8, src",
+        "data_avatar_9, src"
+    ],
+    "data_avatar_1": [
+        "https://vignette.wikia.nocookie.net/naruto-viet-nam/images/4/49/Naruto_Shipp%C5%ABden_Logo-1.png/revision/latest?cb=20170427074448&path-prefix=vi",
+        "https://bloganchoi.com/wp-content/uploads/2017/03/naruto-uzumaki.jpg",
+        "https://variety.com/wp-content/uploads/2015/07/naruto_movie-lionsgate.jpg?w=681&h=383&crop=1"
+    ],
+    "data_avatar_2": [
+        "https://mythuat.info/wp-content/uploads/2020/05/ve-sasuke-uchiha-1.png",
+        "https://gamek.mediacdn.vn/133514250583805952/2020/11/20/vfd3-16058612680581488294908.jpg",
+        "https://i.pinimg.com/originals/ed/7f/d4/ed7fd450c11f95d3cfa2442d17805ecc.jpg"
+    ],
+    "data_avatar_3": [
+        "https://www.naruto-guides.com/wp-content/uploads/2019/05/sakura-haruno.jpg",
+        "https://i.pinimg.com/474x/2a/a8/ed/2aa8eda34894bf0940ebaa323b1634ad.jpg",
+        "https://genk.mediacdn.vn/2018/4/29/photo-1-15249855694041305549688.jpg"
+    ],
+    "data_avatar_4": [
+        "https://64.media.tumblr.com/269dc806908acc30ddfce133cd0b2773/tumblr_ou4gqyqlIW1vy2tgqo9_250.jpg",
+        "https://64.media.tumblr.com/04ba2179636657c8335471fbb9b06e8c/a61476a71f956d3b-f2/s640x960/6daefff01b18649369dd67c9acea67b92a895c3c.jpg",
+        "https://i.redd.it/hrwaepndx3g21.jpg"
+    ],
+    "data_avatar_5": [
+        "https://coubsecure-s.akamaihd.net/get/b48/p/coub/simple/cw_timeline_pic/5919f325c83/b94f9dbf74bc3d213bb67/med_1586503682_image.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVl2HTrmzo-KGgD-EaUaL79NSUOd_m3SJEHQ&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0TY4nTeFpEqjdO7f9IPdGZGOj88nZ5xu2aA&usqp=CAU"
+    ],
+    "data_avatar_6": [
+        "https://inthestatus.com/jkwp/wp-content/uploads/2020/03/%ED%9B%84%EC%BF%A0%EB%B2%A0-%EC%82%AC%ED%86%A0%EC%8B%9C_6120200314115111.jpg",
+        "https://pm1.narvii.com/6333/59b4d3f4f65ec37f7fb9550ecf7ad4085f9474f7_hq.jpg",
+        "https://i.gifer.com/ByEG.gif"
+    ],
+    "data_avatar_7": [
+        "https://animetvn.tv/upload/character/tomoya-okazaki-3.jpg",
+        "https://pm1.narvii.com/6420/25248db994f1e8146c544a82fcfccaa739270fde_hq.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS4PPMm55MDpEBWlO6MxzCL0nXrriWlP8W4A&usqp=CAU"
+    ],
+    "data_avatar_8": [
+        "https://i.pinimg.com/originals/04/c7/22/04c7226cb9798f7842120f08e1308e01.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnHkRH1zj1PxNwd7qte313BTRhynegJIj2jQ&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA5El_ZW_CQqDqVCi6mxiKwW5eO_xpkSFrqg&usqp=CAU"
+    ],
+    "data_avatar_9": [
+        "https://vignette.wikia.nocookie.net/clannad/images/2/24/Nagisa_Furukawa.jpg/revision/latest?cb=20121211173047&path-prefix=es",
+        "https://i.pinimg.com/474x/10/0d/c6/100dc61e2484b928726221127f95bf4f.jpg",
+        "https://i.pinimg.com/236x/c3/d6/fd/c3d6fde9769f315ccb469bdd2709f2eb.jpg"
+    ],
     "data_1": [
         "Naruto",
-        "FMAB",
-        "Code Geass",
-        "Deadth Note",
         "Hyouka",
         "Clannad"
     ],
-    "lv2-data_name_1": [
+    "data_name_1": [
         "Naruto Uzumaki",
         "Sasuke Uchiha",
         "Sakura Haruno"
     ],
-    "lv2-data_name_2": [
-        "Edward Eldric ",
-        "Alphonse Eldric",
-        "Windry Rockwell"
-    ],
-    "lv2-data_name_3": [
-        "Lelouch vi Britania",
-        "Kururugi Suzaku",
-        "C.C"
-    ],
-    "lv2-data_name_4": [
-        "L",
-        "Misa",
-        "Light Yagami"
-    ],
-    "lv2-data_name_5": [
+    "data_name_2": [
         "Oreiki Hotarou",
         "Chitanda Eru",
         "Satoshi Fukube"
     ],
-    "lv2-data_name_6": [
+    "data_name_3": [
         "Okazaki Tomoya",
         "Okazaki Ushio",
         "Nagisa Fukurawa"
     ],
+    "lv2-data_class_1": [
+        "active",
+        "",
+        "active"
+    ],
+    "lv2-data_class_2": [
+        "",
+        "active",
+        ""
+    ],
+    "lv2-data_class_3": [
+        "",
+        "",
+        "active"
+    ],
+    "lv2-data_class_4": [
+        "active",
+        "",
+        ""
+    ],
+    "lv2-data_class_5": [
+        "",
+        "",
+        ""
+    ],
+    "lv2-data_class_6": [
+        "active",
+        "active",
+        "active"
+    ],
     "data_4": [
         "https://upload.wikimedia.org/wikipedia/vi/3/3e/Naruto_01_m.jpg",
-        "https://m.media-amazon.com/images/M/MV5BZmEzN2YzOTItMDI5MS00MGU4LWI1NWQtOTg5ZThhNGQwYTEzXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UY1200_CR113,0,630,1200_AL_.jpg",
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTRGBu_qLVyCq5_Ler6iyG70ITUEjQtmMv9Pg&usqp=CAU",
-        "https://i.pinimg.com/originals/f6/2e/35/f62e35e85a065c4f5cb2d16ec34efe0c.jpg",
         "https://truyenbanquyen.com/wp-content/uploads/2020/04/Preview-Hyouka.jpg",
         "https://i.pinimg.com/originals/66/62/22/6662222bf463e62d3e97e3c1c71d0815.jpg"
     ],
@@ -49,21 +143,6 @@
         "https://vignette.wikia.nocookie.net/naruto-viet-nam/images/4/49/Naruto_Shipp%C5%ABden_Logo-1.png/revision/latest?cb=20170427074448&path-prefix=vi",
         "https://mythuat.info/wp-content/uploads/2020/05/ve-sasuke-uchiha-1.png",
         "https://www.naruto-guides.com/wp-content/uploads/2019/05/sakura-haruno.jpg"
-    ],
-    "lv2-data_5": [
-        "https://data.whicdn.com/images/318129154/original.jpg",
-        "https://bbts1.azureedge.net/images/p/full/2018/10/e5a91571-710c-4afd-a4b2-2792df5d0461.jpg",
-        "https://redleafcosplay.files.wordpress.com/2012/03/9730_g_1299548999334.jpg?w=584"
-    ],
-    "lv2-data_6": [
-        "https://i.pinimg.com/originals/8d/fb/9c/8dfb9c777fa41b1200c6b293f2d40393.jpg",
-        "https://static.zerochan.net/Kururugi.Suzaku.full.2294419.jpg",
-        "https://upload.wikimedia.org/wikipedia/en/5/59/CC_033_animestocks-com--2-.jpg"
-    ],
-    "lv2-data_7": [
-        "https://c7.uihere.com/files/940/547/661/light-yagami-ryuk-misa-amane-death-note-l.jpg",
-        "https://vignette.wikia.nocookie.net/yandere/images/a/a9/Misa1b.jpg/revision/latest?cb=20151025125814",
-        "https://64.media.tumblr.com/23dd52cbf1e51b2f25815600139fd8c5/tumblr_ptl91riFUm1su7lsa_540.png"
     ],
     "lv2-data_8": [
         "https://64.media.tumblr.com/269dc806908acc30ddfce133cd0b2773/tumblr_ou4gqyqlIW1vy2tgqo9_250.jpg",
@@ -74,21 +153,5 @@
         "https://animetvn.tv/upload/character/tomoya-okazaki-3.jpg",
         "https://i.pinimg.com/originals/04/c7/22/04c7226cb9798f7842120f08e1308e01.jpg",
         "https://vignette.wikia.nocookie.net/clannad/images/2/24/Nagisa_Furukawa.jpg/revision/latest?cb=20121211173047&path-prefix=es"
-    ],
-    "lv-data-sets-1": [
-        "lv2-data_4, src",
-        "lv2-data_5, src",
-        "lv2-data_6, src",
-        "lv2-data_7, src",
-        "lv2-data_8, src",
-        "lv2-data_9, src"
-    ],
-    "lv-data-sets-2": [
-        "lv2-data_name_1, text",
-        "lv2-data_name_2, text",
-        "lv2-data_name_3, text",
-        "lv2-data_name_4, text",
-        "lv2-data_name_5, text",
-        "lv2-data_name_6, text"
     ]
 }
