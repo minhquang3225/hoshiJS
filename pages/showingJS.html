@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Showing js</title>
+    <link rel="stylesheet" href="../../css/showingJS.css">
+</head>
+
+<body>
+    <div class="container">
+        <ul class="avatar-list__wrapper">
+            <li class="avatar-list__item">
+                <div class="primary__wrapper">
+                    <picture class="imgBx eru"><img
+                            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVl2HTrmzo-KGgD-EaUaL79NSUOd_m3SJEHQ&usqp=CAU"
+                            alt=""></picture>
+                </div>
+            </li>
+            <li class="avatar-list__item">
+                <div class="primary__wrapper">
+                    <picture class="imgBx nagisa"><img
+                            src="https://i.pinimg.com/474x/10/0d/c6/100dc61e2484b928726221127f95bf4f.jpg" alt="">
+                    </picture>
+                </div>
+            </li>
+            <li class="avatar-list__item">
+                <div class="primary__wrapper">
+                    <picture class="imgBx iki"><img
+                            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW0d-_JjHnVl2GJpUzC-nSyRFuBx48FYcz2A&usqp=CAU"
+                            alt=""></picture>
+                </div>
+            </li>
+            <li class="avatar-list__item">
+                <div class="primary__wrapper">
+                    <picture class="imgBx yukino"><img
+                            src="https://practicaltyping.com/wp-content/uploads/2020/06/yukinoshita-oregairu.jpg"
+                            alt=""></picture>
+                </div>
+            </li>
+            <li class="avatar-list__item">
+                <div class="primary__wrapper">
+                    <picture class="imgBx kurisu"><img
+                            src="https://www.wallpaperup.com/uploads/wallpapers/2014/02/14/255695/5a564eabe28069cc51242bececd7d2a8-700.jpg"
+                            alt=""></picture>
+                </div>
+            </li>
+            <li class="avatar-list__item">
+                <div class="primary__wrapper">
+                    <picture class="imgBx saber"><img
+                            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC_vFXNF-g0GgGzONR7JqkGEfwfRd7kO-HDQ&usqp=CAU"
+                            alt=""></picture>
+                </div>
+            </li>
+            <li class="avatar-list__item">
+                <div class="primary__wrapper">
+                    <picture class="imgBx eru"><img
+                            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVl2HTrmzo-KGgD-EaUaL79NSUOd_m3SJEHQ&usqp=CAU"
+                            alt=""></picture>
+                </div>
+            </li>
+            <li class="avatar-list__item">
+                <div class="primary__wrapper">
+                    <picture class="imgBx nagisa"><img
+                            src="https://i.pinimg.com/474x/10/0d/c6/100dc61e2484b928726221127f95bf4f.jpg" alt="">
+                    </picture>
+                </div>
+            </li>
+            <li class="avatar-list__item">
+                <div class="primary__wrapper">
+                    <picture class="imgBx iki"><img
+                            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW0d-_JjHnVl2GJpUzC-nSyRFuBx48FYcz2A&usqp=CAU"
+                            alt=""></picture>
+                </div>
+            </li>
+            <li class="avatar-list__item">
+                <div class="primary__wrapper">
+                    <picture class="imgBx yukino"><img
+                            src="https://practicaltyping.com/wp-content/uploads/2020/06/yukinoshita-oregairu.jpg"
+                            alt=""></picture>
+                </div>
+            </li>
+            <li class="avatar-list__item">
+                <div class="primary__wrapper">
+                    <picture class="imgBx kurisu"><img
+                            src="https://www.wallpaperup.com/uploads/wallpapers/2014/02/14/255695/5a564eabe28069cc51242bececd7d2a8-700.jpg"
+                            alt=""></picture>
+                </div>
+            </li>
+            <li class="avatar-list__item">
+                <div class="primary__wrapper">
+                    <picture class="imgBx saber"><img
+                            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC_vFXNF-g0GgGzONR7JqkGEfwfRd7kO-HDQ&usqp=CAU"
+                            alt=""></picture>
+                </div>
+            </li>
+        </ul>
+        <div class="btn-list__wrapper">
+            <button data-relp-level=1 data-toggle="showing" data-showing-modes="show show toggle hide"
+                data-targets=".kurisu, .iki, .nagisa, .eru">Mở Kurisu, Mở Iki, Toggle Nagisa, Đóng Eru</button>
+            <button data-relp-level=1 data-toggle="showing" data-showing-modes="show hide toggle hide"
+                data-targets=".iki, .saber, .yukino, .kurisu">Mở Iki, Đóng Saber, Toggle Yukino, Đóng Kirusu</button>
+            <button data-relp-level=1 data-toggle="showing" data-showing-modes="hide hide toggle show"
+                data-targets=".iki, .eru, .saber, .yukino">Đóng Iki, Đóng Eru, Toggle Saber, Mở Yukino</button>
+            <button data-relp-level=1 data-toggle="showing" data-showing-modes="hide show toggle hide"
+                data-targets=".saber, .eru, .kurisu, .nagisa">Đóng Saber, Mở Eru, Toggle Kurisu, Đóng Nagisa</button>
+        </div>
+        <div class="input-list__wrapper">
+            <input data-toggle="showing" data-showing-modes="show toggle hide" data-targets=".kurisu, .iki, .nagisa"
+                data-events="focusin input focusout" placeholder="focus Mở Kurisu, input Toggle Iki, out đóng Nagisa" />
+            <input data-toggle="showing" data-showing-modes="show toggle hide" data-targets=".yukino, .eru, .saber"
+                data-events="focusin input focusout" placeholder="focus Mở Yukino, input Toggle Eru, out đóng saber" />
+            <input data-toggle="showing" data-showing-modes="show toggle hide" data-targets=".saber, .nagisa, .iki"
+                data-events="focusin input focusout" placeholder="focus Mở Saber,  input Toggle Nagisa, out đóng iki" />
+        </div>
+    </div>
+    <script type="module" src="../function/showing.js"></script>
+</body>
+
+</html>

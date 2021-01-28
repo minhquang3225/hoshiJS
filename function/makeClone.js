@@ -1,5 +1,5 @@
 //makeClone v2.0
-
+//Chỉ support tối đa 3 cấp
 import { getEle, getEles } from "./global.js";
 
 export const makeClone = (DataObjArr, data) => {
@@ -103,10 +103,4 @@ export const makeClone = (DataObjArr, data) => {
 
         })
     })
-    // function cloneOrigin(originNode, parentNode, numClone) {
-        
-
-    //     return parentNode;
-    // }
-
 }
